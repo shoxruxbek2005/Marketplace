@@ -7,4 +7,4 @@ function Ranking(props) {
 
 }
 
-export default Ranking
+export default Ranking  
